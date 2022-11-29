@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke (Fan) Yang / Site Title"
+title                    : "Luke (Fan) Yang"
 title_separator          : "-"
 name                     : &name "Luke (Fan) Yang"
 description              : &description "This is Luke"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Luke (Fan) Yang"
+  avatar           : "profile.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
