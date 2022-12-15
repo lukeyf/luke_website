@@ -14,4 +14,6 @@ We constructed a voice-activated system that is shaped for interactive virtual e
 
 [Access paper here](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01394)
 
+[Access code here](https://gitlab.com/heingroup/titration_automation_workflow/-/tree/master/)
+
 Yang, F.; Lai, V.; Legard, K.; Kozdras, S.; Prieto, P. L.; Grunert, S.; Hein, J. E. Augmented Titration Setup for Future Teaching Laboratories. _J. Chem. Educ._ 2021. <https://doi.org/10.1021/acs.jchemed.0c01394>.
