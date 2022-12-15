@@ -2,12 +2,12 @@
 title: "Automated solubility screening platform using computer vision"
 collection: publications
 permalink: /publication/solubility
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'We investigated a closed-loop automated system for continuous solubility screening. We developed a computer vision algorithm to quantify the turbidity of the solution and use additive liquid dispense to find the solubility without human intervention.'
+date: 2021-03-19
 venue: 'iScience'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2589004221001449'
 ---
-We investigated a closed-loop automated system for continuous solubility screening.
+We investigated a closed-loop automated system for continuous solubility screening. We developed a computer vision algorithm to quantify the turbidity of the solution and use additive liquid dispense to find the solubility without human intervention.
 
 [Access paper here](https://www.sciencedirect.com/science/article/pii/S2589004221001449)
 
