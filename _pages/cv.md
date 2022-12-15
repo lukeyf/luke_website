@@ -71,4 +71,4 @@ Service and leadership
 * Orientation Leader, 2020
   * Providing orientation support for incoming international students at UBC
 * Senior Orientation Leader, 2021
-* Supervising and organizing orientation events for incoming students at Vantage College, UBC.
+  * Supervising and organizing orientation events for incoming students at Vantage College, UBC.
