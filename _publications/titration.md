@@ -7,8 +7,6 @@ date: 2021-02-02
 venue: 'Journal of Chemical Education'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01394'
 
-
-DOI: '10.1021/acs.jchemed.0c01394.'
 ---
 We constructed a voice-activated system that is shaped for interactive virtual experiment teaching laboratories. The work features simple natural language processing and human-computer interaction to leverage computer programming and laboratory electronics to provide an accessible virtual laboratory for students.
 

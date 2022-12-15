@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Combined Honours in Chemistry and Mathematics, University of British Columbia, 2021
+* Master of Data Science, University of British Columbia, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Chemistry Research Assistant
+  * University of Toronto
+  * Carry out the experimental synthesis of magnetic polymers
+  * Supervisor: Professor Dwight Seferos
+
+* Summer 2020: Automation Research Assistant
+  * University of British Columbia
+  * Developed a voice-activated titration system for teaching laboratories
+  * Supervisor: Professor Jason Hein
+
+* Fall 2020 - Fall 2022: Laboratory Automation Developer
+  * University of British Columbia
+  * Developing autonomous platforms for chemistry processes.
+  * Using techniques including software construction, instrumentation interfacing, and artificial intelligence to engineer and robustify the automated systems.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming Languages
+  * Python
+  * R
+  * Java
+  * MATLAB
+  * SQL
+* Software
+  * Git, GitHub, GitLab
+  * JetBrains Products
+  * Docker
+  * MongoDB
+* Human Languages:
+  * Fluent in English and Mandarin
+  * Beginner level Japanese
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* Orientation Leader, 2020
+  * Providing orientation support for incoming international students at UBC
+* Senior Orientation Leader, 2021
+* Supervising and organizing orientation events for incoming students at Vantage College, UBC.
