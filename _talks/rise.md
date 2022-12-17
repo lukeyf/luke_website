@@ -9,4 +9,5 @@ location: "Ottawa, Ontario"
 url: https://drive.google.com/file/d/16uqEELkLEE10NR0lAosT94UkLnYkAxK7/view?usp=sharing
 ---
 
+This talk was my first research in experimental chemistry. The project focuses on discovering a novel organic material with magnetism.
 
