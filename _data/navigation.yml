@@ -11,8 +11,8 @@ main:
   - title: "Writings"
     url: /writings/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Codes"
+    url: /codes/
     
   - title: "CV"
     url: /cv/
