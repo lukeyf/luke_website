@@ -64,6 +64,20 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Writings
+======
+
+  <ul>{% for post in site.writings %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Codes
+======
+
+  <ul>{% for post in site.codes %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
