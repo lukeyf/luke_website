@@ -1,7 +1,7 @@
 ---
-title: "Customer Complaint Classification"
+title: "Customer Complaint Analyzer"
 collection: codes 
-type: "Term Report"
+type: "Data Science Project"
 permalink: /codes/customer
 date: 2022-12-06
 ---
