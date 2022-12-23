@@ -20,18 +20,18 @@ Work experience
 
 * Summer 2019: Chemistry Research Assistant
   * University of Toronto
-  * Carry out the experimental synthesis of magnetic polymers
+  * Carried out the experimental synthesis of magnetic polymers.
   * Supervisor: Professor Dwight Seferos
 
 * Summer 2020: Automation Research Assistant
   * University of British Columbia
-  * Developed a voice-activated titration system for teaching laboratories
+  * Developed a voice-activated titration system for teaching laboratories.
   * Supervisor: Professor Jason Hein
 
 * Fall 2020 - Fall 2022: Laboratory Automation Developer
   * University of British Columbia
-  * Developing autonomous platforms for chemistry processes.
-  * Using techniques including software construction, instrumentation interfacing, and artificial intelligence to engineer and robustify the automated systems.
+  * Developed autonomous platforms for chemistry processes.
+  * Used techniques including software construction, instrumentation interfacing, and artificial intelligence to engineer and robustify the automated systems.
   
 Skills
 ======
