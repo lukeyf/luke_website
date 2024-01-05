@@ -14,6 +14,7 @@ Education
 
 * Combined Honours in Chemistry and Mathematics, University of British Columbia, 2021
 * Master of Data Science, University of British Columbia, 2023
+* Master of Advanced Computer Science, University of Oxford, 2024
 
 Work Experience
 ======
