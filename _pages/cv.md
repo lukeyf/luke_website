@@ -15,7 +15,7 @@ Education
 * Combined Honours in Chemistry and Mathematics, University of British Columbia, 2021
 * Master of Data Science, University of British Columbia, 2023
 
-Work experience
+Work Experience
 ======
 
 * Summer 2019: Chemistry Research Assistant
@@ -32,6 +32,10 @@ Work experience
   * University of British Columbia
   * Developed autonomous platforms for chemistry processes.
   * Used techniques including software construction, instrumentation interfacing, and artificial intelligence to engineer and robustify the automated systems.
+
+* Summer 2022: Data Science Intern
+  * Cymax Group Technology
+  * Fine-tuned BERT model for named-entity recognition tasks
   
 Skills
 ======
@@ -39,6 +43,7 @@ Skills
 * Programming Languages
   * Python
   * R
+  * Scala
   * Java
   * MATLAB
   * SQL
